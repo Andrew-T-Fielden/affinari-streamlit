@@ -1,0 +1,13 @@
+{
+  "cuisine_type": [
+    "Italian", "Japanese", "Indian",
+    "Mediterranean", "Modern European", "Spanish", "Tapas"
+  ],
+  "setting_type": [
+    "Garden", "Rooftop", "Beach",
+    "Urban", "Countryside", "Courtyard"
+  ],
+  "meal_type": [
+    "Breakfast", "Lunch", "Dinner", "Drinks"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Da Vera": {
+    "scalars": {
+      "quiet": 0.4,
+      "healthy_food": 0.4,
+      "comfort_food": 0.9,
+      "formality": 0.3,
+      "price_sensitivity": 0.5,
+      "experimental_cuisine": 0.2,
+      "staff_interaction": 0.8
+    },
+    "tags": {
+      "vegan_options": 0,
+      "pet_friendly": 0,
+      "outdoor_seating": 0,
+      "parking_available": 1,
+      "live_music": 0,
+      "open_late": 1
+    },
+    "categoricals": {
+      "cuisine_type": [
+        "Italian",
+        "Comfort"
+      ],
+      "setting_type": [
+        "Urban"
+      ],
+      "meal_type": [
+        "Dinner",
+        "Lunch"
+      ]
+    }
+  },
+  "Cosa Nostra": {
+    "scalars": {
+      "quiet": 0.5,
+      "healthy_food": 0.6,
+      "comfort_food": 0.9,
+      "formality": 0.3,
+      "price_sensitivity": 0.7,
+      "experimental_cuisine": 0.2,
+      "staff_interaction": 0.8
+    },
+    "tags": {
+      "vegan_options": 0,
+      "pet_friendly": 0,
+      "outdoor_seating": 1,
+      "parking_available": 1,
+      "live_music": 0,
+      "open_late": 1
+    },
+    "categoricals": {
+      "cuisine_type": [
+        "Italian",
+        "Comfort"
+      ],
+      "setting_type": [
+        "Urban",
+        "Courtyard"
+      ],
+      "meal_type": [
+        "Dinner",
+        "Lunch"
+      ]
+    }
+  },
+  "Tast Club": {
+    "scalars": {
+      "quiet": 0.8,
+      "healthy_food": 0.7,
+      "comfort_food": 0.4,
+      "formality": 0.9,
+      "price_sensitivity": 0.4,
+      "experimental_cuisine": 0.6,
+      "staff_interaction": 0.5
+    },
+    "tags": {
+      "vegan_options": 1,
+      "pet_friendly": 0,
+      "outdoor_seating": 0,
+      "parking_available": 1,
+      "live_music": 0,
+      "open_late": 0
+    },
+    "categoricals": {
+      "cuisine_type": [
+        "Modern European",
+        "Mediterranean"
+      ],
+      "setting_type": [
+        "Urban",
+        "Indoor"
+      ],
+      "meal_type": [
+        "Dinner"
+      ]
+    }
+  },
+  "Bar Espa\u00f1a": {
+    "scalars": {
+      "quiet": 0.3,
+      "healthy_food": 0.5,
+      "comfort_food": 0.8,
+      "formality": 0.4,
+      "price_sensitivity": 0.6,
+      "experimental_cuisine": 0.3,
+      "staff_interaction": 0.9
+    },
+    "tags": {
+      "vegan_options": 1,
+      "pet_friendly": 1,
+      "outdoor_seating": 1,
+      "parking_available": 0,
+      "live_music": 1,
+      "open_late": 1
+    },
+    "categoricals": {
+      "cuisine_type": [
+        "Spanish",
+        "Tapas"
+      ],
+      "setting_type": [
+        "Rooftop",
+        "Urban"
+      ],
+      "meal_type": [
+        "Dinner",
+        "Drinks"
+      ]
+    }
+  },
+  "Omboo": {
+    "scalars": {
+      "quiet": 0.6,
+      "healthy_food": 0.7,
+      "comfort_food": 0.3,
+      "formality": 0.7,
+      "price_sensitivity": 0.3,
+      "experimental_cuisine": 0.5,
+      "staff_interaction": 0.7
+    },
+    "tags": {
+      "vegan_options": 1,
+      "pet_friendly": 0,
+      "outdoor_seating": 0,
+      "parking_available": 0,
+      "live_music": 0,
+      "open_late": 0
+    },
+    "categoricals": {
+      "cuisine_type": [
+        "Japanese"
+      ],
+      "setting_type": [
+        "Courtyard",
+        "Urban"
+      ],
+      "meal_type": [
+        "Lunch",
+        "Dinner"
+      ]
+    }
+  }
+}

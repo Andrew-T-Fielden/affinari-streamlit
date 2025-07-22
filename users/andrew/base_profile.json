@@ -1,0 +1,24 @@
+{
+  "scalars": {
+    "quiet": 0.6,
+    "healthy_food": 0.5,
+    "comfort_food": 0.9,
+    "formality": 0.4,
+    "price_sensitivity": 0.5,
+    "experimental_cuisine": 0.1,
+    "staff_interaction": 0.2
+  },
+  "tags": {
+    "vegan_options": 0,
+    "pet_friendly": 0,
+    "outdoor_seating": 0,
+    "parking_available": 0,
+    "live_music": 0,
+    "open_late": 0
+  },
+  "categoricals": {
+    "cuisine_type": [],
+    "setting_type": [],
+    "meal_type": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "quiet": -0.2,
+  "healthy_food": -0.4,
+  "comfort_food": 0.6,
+  "formality": -0.1,
+  "price_sensitivity": -0.2,
+  "experimental_cuisine": -0.1,
+  "staff_interaction": -0.4
+}
